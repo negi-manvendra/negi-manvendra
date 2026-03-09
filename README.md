@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Manvendra Negi 👋
 
-<!--
-**negi-manvendra/negi-manvendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps Engineer passionate about Linux, automation, and cloud infrastructure.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Linux system administration
+* Bash scripting
+* DevOps fundamentals
+* Cloud and container technologies
+
+## 🛠 Tech Stack
+
+* Linux
+* Bash
+* Git
+* GitHub
+
+## 📂 Projects
+
+### Linux Command Toolkit
+
+A collection of Bash scripts to automate system monitoring tasks such as:
+
+* System information inspection
+* Disk usage monitoring
+* Process monitoring
+* Log analysis
+* Server health checks
+
+🔗 Repository
+https://github.com/negi-manvendra/linux-command-toolkit
+
+## 🎯 Goals
+
+* Build real DevOps automation projects
+* Learn Docker, CI/CD, and cloud infrastructure
+* Contribute to open-source
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/manvendra-negi-devops
