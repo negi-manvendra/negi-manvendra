@@ -1,13 +1,17 @@
 # Hi, I'm Manvendra Negi 👋
 
-Aspiring DevOps Engineer passionate about Linux, automation, and cloud infrastructure.
+Aspiring DevOps Engineer learning Linux, automation, and cloud technologies.
+
+---
 
 ## 🚀 Currently Learning
 
-* Linux system administration
-* Bash scripting
-* DevOps fundamentals
-* Cloud and container technologies
+* Linux System Administration
+* Bash Scripting
+* Git & GitHub
+* DevOps Fundamentals
+
+---
 
 ## 🛠 Tech Stack
 
@@ -16,11 +20,15 @@ Aspiring DevOps Engineer passionate about Linux, automation, and cloud infrastru
 * Git
 * GitHub
 
+---
+
 ## 📂 Projects
 
 ### Linux Command Toolkit
 
-A collection of Bash scripts to automate system monitoring tasks such as:
+A collection of Bash scripts that automate common Linux monitoring tasks.
+
+Features:
 
 * System information inspection
 * Disk usage monitoring
@@ -28,15 +36,20 @@ A collection of Bash scripts to automate system monitoring tasks such as:
 * Log analysis
 * Server health checks
 
-🔗 Repository
+Repository:
 https://github.com/negi-manvendra/linux-command-toolkit
+
+---
 
 ## 🎯 Goals
 
-* Build real DevOps automation projects
-* Learn Docker, CI/CD, and cloud infrastructure
-* Contribute to open-source
+* Become a DevOps Engineer
+* Learn Docker and containerization
+* Build CI/CD pipelines
+* Work with cloud platforms
+
+---
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/manvendra-negi-devops
+LinkedIn: (add your LinkedIn link)
