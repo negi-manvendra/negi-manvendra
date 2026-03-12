@@ -24,4 +24,4 @@ Aspiring DevOps Engineer learning Linux, automation, and cloud technologies.
 
 ## 📫 Connect With Me
 
-LinkedIn: (add your LinkedIn link)
+LinkedIn: www.linkedin.com/in/manvendra-negi-devops
