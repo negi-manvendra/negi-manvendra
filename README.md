@@ -13,34 +13,6 @@ Aspiring DevOps Engineer learning Linux, automation, and cloud technologies.
 
 ---
 
-## 🛠 Tech Stack
-
-* Linux
-* Bash
-* Git
-* GitHub
-
----
-
-## 📂 Projects
-
-### Linux Command Toolkit
-
-A collection of Bash scripts that automate common Linux monitoring tasks.
-
-Features:
-
-* System information inspection
-* Disk usage monitoring
-* Process monitoring
-* Log analysis
-* Server health checks
-
-Repository:
-https://github.com/negi-manvendra/linux-command-toolkit
-
----
-
 ## 🎯 Goals
 
 * Become a DevOps Engineer
