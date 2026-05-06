@@ -18,15 +18,11 @@
 
 <img src="https://img.shields.io/badge/Cloud-Native-06B6D4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
 </div>
 
-# 🚀 About Me
+---
 
-<div align="center">
+# 🚀 About Me
 
 ```yaml
 name: Manvendra Negi
@@ -51,15 +47,39 @@ mindset:
   "Automate Everything • Scale Reliably • Ship Faster"
 ```
 
-</div>
-
 ---
 
 # ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,git,github,prometheus,grafana,python,go,mongodb,postgres,redis,nginx&theme=dark" />
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions&theme=dark" />
+
+<br/><br/>
+
+## 💻 Infrastructure & Systems
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vim,nginx&theme=dark" />
+
+<br/><br/>
+
+## 📊 Monitoring & Observability
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+
+<br/><br/>
+
+## 🛢️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+
+<br/><br/>
+
+## 🚀 Programming
+
+<img src="https://skillicons.dev/icons?i=python,go,bash&theme=dark" />
 
 </div>
 
@@ -89,9 +109,9 @@ mindset:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=negi-manvendra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=22&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=negi-manvendra&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negi-manvendra&layout=compact&theme=tokyonight&hide_border=true&border_radius=22"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=negi-manvendra&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -101,7 +121,7 @@ mindset:
 
 <div align="center">
 
-<img width="92%" src="https://streak-stats.demolab.com?user=negi-manvendra&theme=tokyonight&hide_border=true&border_radius=22"/>
+<img src="https://streak-stats.demolab.com?user=negi-manvendra&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -111,7 +131,7 @@ mindset:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=negi-manvendra&theme=tokyo-night&hide_border=true&area=true&custom_title=Manvendra%20Negi%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=negi-manvendra&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -208,7 +228,7 @@ mindset:
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
