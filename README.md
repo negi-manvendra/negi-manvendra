@@ -1,10 +1,15 @@
+<!-- ========================================================= -->
+<!--               🚀 MANVENDRA NEGI README                    -->
+<!--      Premium DevOps • Cloud Native • Platform Eng         -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:111827,50:312E81,75:5B21B6,100:7C3AED&text=MANVENDRA%20NEGI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20ENGINEER%20•%20CLOUD%20NATIVE%20•%20KUBERNETES%20•%20AUTOMATION&descSize=21&descAlignY=58&descColor=CBD5E1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:050816,25:0F172A,50:312E81,75:5B21B6,100:7C3AED&text=MANVENDRA%20NEGI&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20ENGINEER%20•%20CLOUD%20NATIVE%20•%20PLATFORM%20ENGINEERING&descSize=22&descAlignY=58&descColor=CBD5E1"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&height=90&lines=DevOps+Engineer+🚀;Cloud+Infrastructure+☁️;Kubernetes+•+Docker+•+AWS+•+Terraform;CI%2FCD+Automation+⚡;Linux+•+GitOps+•+Platform+Engineering;Building+Production-Grade+Systems+🔥"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&height=90&lines=DevOps+Engineer+🚀;Cloud+Infrastructure+Architect+☁️;Kubernetes+•+Docker+•+AWS+•+Terraform;CI%2FCD+Automation+⚡;Linux+•+GitOps+•+Platform+Engineering;Building+Production-Grade+Systems+🔥"/>
 
 <br/><br/>
 
@@ -14,46 +19,100 @@
 
 <img src="https://komarev.com/ghpvc/?username=negi-manvendra&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/badge/Focus-DevOps%20Engineering-7C3AED?style=for-the-badge&logo=linux&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Cloud-Native-06B6D4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Focus-DevOps%20Engineering-7C3AED?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ⚡ Engineering Identity
 
 ```yaml
 name: Manvendra Negi
 role: DevOps Engineer
 
 specialization:
+  - Cloud Infrastructure
   - Kubernetes
-  - Docker
-  - AWS
-  - Terraform
-  - CI/CD
-  - Linux
-  - Infrastructure Automation
-
-currently_learning:
-  - Advanced Kubernetes
-  - GitOps
   - Platform Engineering
+  - Infrastructure Automation
+  - CI/CD Pipelines
+  - Linux Systems
+
+focus:
+  - Cloud Native Architecture
   - Distributed Systems
+  - GitOps Workflows
+  - Reliability Engineering
+  - Observability
+  - Scalable Infrastructure
 
 mindset:
-  "Automate Everything • Scale Reliably • Ship Faster"
+  "Automate Everything • Scale Reliably • Build Production-Grade Systems"
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Cloud Native Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,git,github,prometheus,grafana,python,go,mongodb,postgres,redis,nginx&theme=dark"/>
+## ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible&theme=dark"/>
+
+<br/><br/>
+
+## 🐳 Containers & Orchestration
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark"/>
+
+<br/><br/>
+
+## ⚙️ DevOps & Automation
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,bash,linux&theme=dark"/>
+
+<br/><br/>
+
+## 📊 Monitoring & Observability
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark"/>
+
+<br/><br/>
+
+## 🛢️ Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
+
+<br/><br/>
+
+## 💻 Development & Systems
+
+<img src="https://skillicons.dev/icons?i=python,go,git,github,nginx,vim&theme=dark"/>
+
+</div>
+
+---
+
+# 🏗️ Infrastructure Expertise
+
+<div align="center">
+
+| Domain | Technologies |
+|---|---|
+| ☁️ Cloud Platforms | AWS, GCP |
+| 🐳 Containers | Docker |
+| ⚙️ Orchestration | Kubernetes, Helm |
+| 🚀 CI/CD | Jenkins, GitHub Actions |
+| 🏗️ Infrastructure as Code | Terraform, Ansible |
+| 📊 Monitoring | Prometheus, Grafana |
+| 🐧 Linux Engineering | Ubuntu, Bash |
+| 🔀 Version Control | Git, GitHub |
+| 🌐 Networking | Nginx, Linux Networking |
+| 🔥 GitOps | ArgoCD |
 
 </div>
 
@@ -75,13 +134,13 @@ mindset:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=negi-manvendra&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=negi-manvendra&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Activity
+# 📊 Engineering Activity Graph
 
 <div align="center">
 
@@ -101,32 +160,51 @@ mindset:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Infrastructure Projects
 
 <div align="center">
 
 | 🚀 Project | ⚡ Description | 🛠️ Stack |
 |---|---|---|
-| Kubernetes Monitoring Stack | Production-grade monitoring infrastructure | Kubernetes, Prometheus |
-| CI/CD Automation Pipeline | Automated deployment workflows | Jenkins, Docker |
-| AWS Infrastructure Automation | Scalable cloud provisioning | Terraform, AWS |
-| GitOps Deployment Platform | Git-driven deployments | Kubernetes, ArgoCD |
+| Kubernetes Monitoring Stack | Production-grade monitoring architecture with observability pipelines | Kubernetes, Prometheus, Grafana |
+| Enterprise CI/CD Platform | Automated build and deployment workflows for scalable delivery | Jenkins, Docker |
+| Cloud Infrastructure Automation | Infrastructure provisioning and scalable AWS deployments | Terraform, AWS |
+| GitOps Delivery Platform | Declarative Kubernetes deployment workflows | Kubernetes, ArgoCD |
 
 </div>
 
 ---
 
-# ⚡ Current Focus
+# ⚡ Current Engineering Focus
 
 ```diff
 + Kubernetes Architecture
-+ Infrastructure Automation
-+ Cloud Native Engineering
 + Platform Engineering
++ Distributed Systems
++ Infrastructure Automation
++ GitOps Workflows
++ Reliability Engineering
++ Monitoring & Observability
 + CI/CD Optimization
 + Linux Internals
-+ GitOps Workflows
-+ Monitoring & Observability
++ Cloud Native Systems
+```
+
+---
+
+# 📌 DevOps Philosophy
+
+```text
+⚡ Infrastructure as Code
+⚡ Reliability First
+⚡ Security by Default
+⚡ Automate Everything
+⚡ Production-Grade Systems
+⚡ Cloud Native Architecture
+⚡ Scalable Infrastructure
+⚡ Continuous Improvement
+⚡ Observability Everywhere
+⚡ Engineering Excellence
 ```
 
 ---
@@ -155,18 +233,8 @@ mindset:
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,50:312E81,100:050816&section=footer&text=THANKS%20FOR%20VISITING%20🚀&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7C3AED,25:5B21B6,50:312E81,75:111827,100:050816&section=footer&text=BUILDING%20RELIABLE%20SYSTEMS%20AT%20SCALE%20🚀&fontSize=38&fontColor=FFFFFF&animation=twinkling"/>
 
 </div>
