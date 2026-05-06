@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:050816,25:111827,50:312E81,75:5B21B6,100:7C3AED&text=MANVENDRA%20NEGI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20ENGINEER%20•%20CLOUD%20NATIVE%20•%20KUBERNETES%20•%20AUTOMATION&descSize=21&descAlignY=58&descColor=CBD5E1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:111827,50:312E81,75:5B21B6,100:7C3AED&text=MANVENDRA%20NEGI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20ENGINEER%20•%20CLOUD%20NATIVE%20•%20KUBERNETES%20•%20AUTOMATION&descSize=21&descAlignY=58&descColor=CBD5E1"/>
 
 <br/>
 
@@ -54,26 +54,6 @@ mindset:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,git,github,prometheus,grafana,python,go,mongodb,postgres,redis,nginx&theme=dark"/>
-
-</div>
-
----
-
-# 🛠️ DevOps Toolkit
-
-<div align="center">
-
-| Category | Stack |
-|---|---|
-| ☁️ Cloud | AWS |
-| 🐳 Containers | Docker |
-| ⚙️ Orchestration | Kubernetes, Helm |
-| 🚀 CI/CD | Jenkins, GitHub Actions |
-| 🏗️ IaC | Terraform, Ansible |
-| 📊 Monitoring | Prometheus, Grafana |
-| 🐧 Systems | Linux, Bash |
-| 🔀 SCM | Git, GitHub |
-| 🌐 Networking | Nginx |
 
 </div>
 
@@ -147,21 +127,6 @@ mindset:
 + Linux Internals
 + GitOps Workflows
 + Monitoring & Observability
-+ Scalability Engineering
-```
-
----
-
-# 📌 Engineering Principles
-
-```text
-⚡ Infrastructure as Code
-⚡ Reliability First
-⚡ Automate Everything
-⚡ Security by Default
-⚡ Cloud Native Systems
-⚡ Production-Grade Engineering
-⚡ Continuous Improvement
 ```
 
 ---
@@ -185,6 +150,16 @@ mindset:
 <a href="https://github.com/negi-manvendra">
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
