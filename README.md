@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&height=90&lines=DevOps+Engineer+🚀;Cloud+Infrastructure+Architect+☁️;Kubernetes+•+Docker+•+AWS+•+Terraform;CI%2FCD+Automation+⚡;Linux+•+GitOps+•+Platform+Engineering;Building+Scalable+Production-Grade+Systems+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&height=90&lines=DevOps+Engineer+🚀;Cloud+Infrastructure+☁️;Kubernetes+•+Docker+•+AWS+•+Terraform;CI%2FCD+Automation+⚡;Linux+•+GitOps+•+Platform+Engineering;Building+Production-Grade+Systems+🔥"/>
 
 <br/><br/>
 
@@ -53,33 +53,7 @@ mindset:
 
 <div align="center">
 
-## ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions&theme=dark" />
-
-<br/><br/>
-
-## 💻 Infrastructure & Systems
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vim,nginx&theme=dark" />
-
-<br/><br/>
-
-## 📊 Monitoring & Observability
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-
-<br/><br/>
-
-## 🛢️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
-
-<br/><br/>
-
-## 🚀 Programming
-
-<img src="https://skillicons.dev/icons?i=python,go,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,git,github,prometheus,grafana,python,go,mongodb,postgres,redis,nginx&theme=dark"/>
 
 </div>
 
@@ -109,9 +83,9 @@ mindset:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=negi-manvendra&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=negi-manvendra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=negi-manvendra&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negi-manvendra&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -121,7 +95,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=negi-manvendra&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=negi-manvendra&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -141,7 +115,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=negi-manvendra&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=negi-manvendra&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -162,14 +136,12 @@ mindset:
 
 ---
 
-# ⚡ Current Engineering Focus
-
-<div align="center">
+# ⚡ Current Focus
 
 ```diff
 + Kubernetes Architecture
-+ Cloud Native Engineering
 + Infrastructure Automation
++ Cloud Native Engineering
 + Platform Engineering
 + CI/CD Optimization
 + Linux Internals
@@ -178,13 +150,9 @@ mindset:
 + Scalability Engineering
 ```
 
-</div>
-
 ---
 
 # 📌 Engineering Principles
-
-<div align="center">
 
 ```text
 ⚡ Infrastructure as Code
@@ -196,8 +164,6 @@ mindset:
 ⚡ Continuous Improvement
 ```
 
-</div>
-
 ---
 
 # 🌐 Connect With Me
@@ -205,30 +171,20 @@ mindset:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/manvendra-negi-devops">
-<img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:manvendra.negi.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="65"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/negi-manvendra">
-<img src="https://skillicons.dev/icons?i=github" height="65"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
