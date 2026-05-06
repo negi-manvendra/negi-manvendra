@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:111827,50:312E81,75:5B21B6,100:7C3AED&text=MANVENDRA%20NEGI&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20ENGINEER%20•%20CLOUD%20NATIVE%20•%20KUBERNETES&descSize=20&descAlignY=58&descColor=CBD5E1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:050816,25:111827,50:312E81,75:5B21B6,100:7C3AED&text=MANVENDRA%20NEGI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20ENGINEER%20•%20CLOUD%20NATIVE%20•%20KUBERNETES%20•%20AUTOMATION&descSize=21&descAlignY=58&descColor=CBD5E1"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=1100&lines=DevOps+Engineer+🚀;Cloud+Infrastructure+☁️;Kubernetes+•+Docker+•+AWS+•+Terraform;CI%2FCD+Automation+⚡;Linux+•+GitOps+•+Platform+Engineering;Building+Production-Grade+Systems+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&height=90&lines=DevOps+Engineer+🚀;Cloud+Infrastructure+Architect+☁️;Kubernetes+•+Docker+•+AWS+•+Terraform;CI%2FCD+Automation+⚡;Linux+•+GitOps+•+Platform+Engineering;Building+Scalable+Production-Grade+Systems+🔥" />
 
 <br/><br/>
 
@@ -14,17 +14,25 @@
 
 <img src="https://komarev.com/ghpvc/?username=negi-manvendra&style=for-the-badge&color=7C3AED"/>
 
+<img src="https://img.shields.io/badge/Focus-DevOps%20Engineering-7C3AED?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud-Native-06B6D4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
 </div>
 
----
-
 # 🚀 About Me
+
+<div align="center">
 
 ```yaml
 name: Manvendra Negi
 role: DevOps Engineer
 
-focus:
+specialization:
   - Kubernetes
   - Docker
   - AWS
@@ -43,39 +51,35 @@ mindset:
   "Automate Everything • Scale Reliably • Ship Faster"
 ```
 
+</div>
+
 ---
 
 # ⚡ Tech Stack
 
 <div align="center">
 
-## ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,bash,git,github,prometheus,grafana,python,go,mongodb,postgres,redis,nginx&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions&theme=dark" />
+</div>
 
-<br/><br/>
+---
 
-## 💻 Infrastructure & OS
+# 🛠️ DevOps Toolkit
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vim,nginx&theme=dark" />
+<div align="center">
 
-<br/><br/>
-
-## 📊 Monitoring
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-
-<br/><br/>
-
-## 🛢️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
-
-<br/><br/>
-
-## 🚀 Programming
-
-<img src="https://skillicons.dev/icons?i=python,go,bash&theme=dark" />
+| Category | Stack |
+|---|---|
+| ☁️ Cloud | AWS |
+| 🐳 Containers | Docker |
+| ⚙️ Orchestration | Kubernetes, Helm |
+| 🚀 CI/CD | Jenkins, GitHub Actions |
+| 🏗️ IaC | Terraform, Ansible |
+| 📊 Monitoring | Prometheus, Grafana |
+| 🐧 Systems | Linux, Bash |
+| 🔀 SCM | Git, GitHub |
+| 🌐 Networking | Nginx |
 
 </div>
 
@@ -85,9 +89,9 @@ mindset:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=negi-manvendra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=negi-manvendra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=22&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negi-manvendra&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negi-manvendra&layout=compact&theme=tokyonight&hide_border=true&border_radius=22"/>
 
 </div>
 
@@ -97,17 +101,17 @@ mindset:
 
 <div align="center">
 
-<img width="90%" src="https://streak-stats.demolab.com?user=negi-manvendra&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img width="92%" src="https://streak-stats.demolab.com?user=negi-manvendra&theme=tokyonight&hide_border=true&border_radius=22"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=negi-manvendra&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=negi-manvendra&theme=tokyo-night&hide_border=true&area=true&custom_title=Manvendra%20Negi%20Contribution%20Graph"/>
 
 </div>
 
@@ -117,7 +121,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=negi-manvendra&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=negi-manvendra&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </div>
 
@@ -127,10 +131,10 @@ mindset:
 
 <div align="center">
 
-| Project | Description | Stack |
+| 🚀 Project | ⚡ Description | 🛠️ Stack |
 |---|---|---|
 | Kubernetes Monitoring Stack | Production-grade monitoring infrastructure | Kubernetes, Prometheus |
-| CI/CD Automation Pipeline | Automated deployments & workflows | Jenkins, Docker |
+| CI/CD Automation Pipeline | Automated deployment workflows | Jenkins, Docker |
 | AWS Infrastructure Automation | Scalable cloud provisioning | Terraform, AWS |
 | GitOps Deployment Platform | Git-driven deployments | Kubernetes, ArgoCD |
 
@@ -138,22 +142,29 @@ mindset:
 
 ---
 
-# ⚡ Current Focus
+# ⚡ Current Engineering Focus
+
+<div align="center">
 
 ```diff
 + Kubernetes Architecture
-+ Infrastructure Automation
 + Cloud Native Engineering
++ Infrastructure Automation
 + Platform Engineering
 + CI/CD Optimization
-+ Monitoring & Observability
 + Linux Internals
 + GitOps Workflows
++ Monitoring & Observability
++ Scalability Engineering
 ```
+
+</div>
 
 ---
 
 # 📌 Engineering Principles
+
+<div align="center">
 
 ```text
 ⚡ Infrastructure as Code
@@ -165,6 +176,8 @@ mindset:
 ⚡ Continuous Improvement
 ```
 
+</div>
+
 ---
 
 # 🌐 Connect With Me
@@ -172,20 +185,30 @@ mindset:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/manvendra-negi-devops">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:manvendra.negi.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="65"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/negi-manvendra">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="65"/>
 </a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -193,6 +216,6 @@ mindset:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:7C3AED,50:312E81,100:050816&section=footer&text=THANKS%20FOR%20VISITING%20🚀&fontSize=38&fontColor=FFFFFF&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,50:312E81,100:050816&section=footer&text=THANKS%20FOR%20VISITING%20🚀&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
 
 </div>
